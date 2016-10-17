@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CityBikesList</string>
+    <string name="bike_text">bikes:</string>
+    <string name="slots_text">slots:</string>
+    <string name="dialog_message">Daten konnten nicht geladen werden</string>
+    <string name="dialog_title">Fehler</string>
+</resources>
